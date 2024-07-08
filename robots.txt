@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rlableriu.github.io/sitemap
+Sitemap: https://rlableriu.github.io/app/sitemap
+Sitemap: https://rlableriu.github.io/assets/sitemap
+Sitemap: https://rlableriu.github.io/css/sitemap
+Sitemap: https://rlableriu.github.io/includes/sitemap
+Sitemap: https://rlableriu.github.io/item/sitemap
+Sitemap: https://rlableriu.github.io/src/sitemap
